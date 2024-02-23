@@ -1,6 +1,5 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
-
-import junit.framework.TestCase;
+package es.uah.matcomp.mp.e1.ejerciciosclases.ejercicio2;
+import es.uah.matcomp.mp.e1.ejerciciosclases.ejercicio2.Rectangle;
 public class RectangleTest {
     public static void main(String[] args) {
         Rectangle r1 = new Rectangle(1.2f, 3.4f);
